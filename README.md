@@ -134,12 +134,4 @@ Este proyecto fue desarrollado con fines **académicos** como parte del curso de
 
 Proyecto académico 2025 – Facultad de Ingeniería de Sistemas
 Universidad Nacional Mayor de San Marcos 🇵🇪
-
-```
-
----
-
-¿Quieres que le agregue una **sección visual con badges** al inicio (por ejemplo:  
-`![C++](https://img.shields.io/badge/C++-17-blue.svg)` | `![SFML](https://img.shields.io/badge/SFML-2.5-green.svg)` | `![Academic](https://img.shields.io/badge/Project-Academic-orange.svg)` )  
-para que luzca más profesional en GitHub?
 ```
