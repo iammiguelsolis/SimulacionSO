@@ -118,7 +118,6 @@ SimulacionSO/
 2. Ejecutar el programa principal:
    ```bash
    ./SFMLPractice
-````
 
 3. Los resultados de cada algoritmo se generarán automáticamente en la carpeta `output/` como archivos `.csv`.
 
