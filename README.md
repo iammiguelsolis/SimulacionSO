@@ -134,4 +134,3 @@ Este proyecto fue desarrollado con fines **académicos** como parte del curso de
 
 Proyecto académico 2025 – Facultad de Ingeniería de Sistemas
 Universidad Nacional Mayor de San Marcos 🇵🇪
-```
