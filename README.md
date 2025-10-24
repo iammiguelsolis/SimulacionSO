@@ -1,8 +1,3 @@
-Perfecto 👌 Aquí tienes el **README.md** actualizado, con el **equipo al inicio** y un formato profesional y visual para GitHub:
-
----
-
-```markdown
 # 🧠 Simulación de Planificación de Procesos – Sistemas Operativos
 
 ## 👥 Equipo de Desarrollo
@@ -43,7 +38,7 @@ El simulador incluye los siguientes algoritmos de planificación:
 ## 🧩 Implementación Técnica
 El simulador fue desarrollado en **C++**, empleando una arquitectura modular que separa los distintos algoritmos y componentes del sistema:
 
-```
+```markdown
 
 include/
 ├── fcfs.h
